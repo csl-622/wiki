@@ -10,3 +10,5 @@ To get more information about the page and its latest version, use the API: http
 
 You can retrieve 50 pages per API request: https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&titles=Main_Page%7CArticles. This also works with generators.
 
+Here is the media wiki page link which contains all important api calls and their parameter:
+https://en.wikipedia.org/w/api.php?action=help&recursivesubmodules=1&modules=query
