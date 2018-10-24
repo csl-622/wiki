@@ -1,0 +1,12 @@
+The MediaWiki action API is a web service that allows access to some wiki-features like authentication, page operations, and search. It can provide Meta information about the wiki and the logged-in user.
+
+Calling the API:
+Send HTTP requests to api.php. For example, on the English Wikipedia, the URL is https://en.wikipedia.org/w/api.php . Most wikis have api.php at a similar URL: just use api.php in place of index.php in page actions. From 1.17 onwards, MediaWiki supports Really Simple Discovery; the HTML source of every page has an RSD link pointing to an RSD descriptor which indicates where to find the API. If you can't figure out the URL of api.php on a third-party (non-Wikimedia-operated) wiki, contact its owner. The wiki may not enable the MediaWiki API, see $wgEnableAPI.
+
+How to get the content of the page using the API?
+If you just want the raw wikitext without any other information whatsoever, it's best to use index.php's action=raw mode instead of the API: https://en.wikipedia.org/w/index.php?action=raw&title=Main_Page. Note that this will output plain wikitext without any formatting. See also the action=raw documentation
+
+To get more information about the page and its latest version, use the API: https://en.wikipedia.org/w/api.php?action=query&prop=revisions&titles=Main_Page. See also the documentation for the prop=revisions module.
+
+You can retrieve 50 pages per API request: https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&titles=Main_Page%7CArticles. This also works with generators.
+
