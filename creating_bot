@@ -1,0 +1,15 @@
+Robots or bots are automatic processes that interact with Wikipedia (and other Wikimedia projects) as though they were human editors. This page attempts to explain how to carry out the development of a bot for use on Wikimedia projects and much of this is transferable to other wikis based on MediaWiki. The explanation is geared mainly towards those who have some prior programming experience, but are unsure of how to apply this knowledge to creating a Wikipedia bot.
+
+Once a bot is created it can use various apis to perform its task and can interact with wiki pages.
+
+For implementation of a wikipedia bot, think about how you might create it and which programming language(s) and tools you would use. Architecture is concerned with making sure the software system will meet the requirements of the product as well as ensuring that future requirements can be addressed. Certain programming languages are better suited to some tasks than others
+
+Programming Languages available:
+Perl
+PHP
+Python
+etc.
+
+Each has its benefits and limitations based on the requirement and architecture of the api.
+
+Till now we are thinking of using PHP based on the need.
