@@ -1,0 +1,6 @@
+Two ways to proceed furthur....
+either by creating web application : in this we can direct use the api and get the wiki data and using html process the data to be represented as a video.
+or else we can create a software in pyhton using qt where we can first invoke the code of wiki data extraction and then video creation.
+
+The main task here we have after extraction is that we are thinking of adding music behind the frames of video.
+The selection and adjustment of pitch is important here.
