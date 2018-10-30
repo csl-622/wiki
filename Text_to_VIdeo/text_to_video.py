@@ -1,6 +1,8 @@
 import cv2
 import os
 
+
+#firstly install pillow
 import PIL
 from PIL import ImageFont
 from PIL import Image
