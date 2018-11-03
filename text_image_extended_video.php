@@ -25,4 +25,12 @@ imagettftext($im, 20, 0, 10, 20, $black, $font, $text);
 // Using imagepng() results in clearer text compared with imagejpeg()
 imagepng($im);
 imagedestroy($im);
+
+
+// converting frames to video 
+// using ffmpeg
+//to use first install ffmpeg
+$command1="ffmpeg -f image2 -r 1/1 -i images/pic%d.jpg -vf fps=25 test1.mp4";
+//command for every 1 second image change in video
+exec($command1);
 ?> 
