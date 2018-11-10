@@ -1,0 +1,20 @@
+Various Summarization Systems are available to provide the summary of the given document. Their task is to produce a concise 
+and fluent summary conveying the key information in the input.
+In order to understand these system basically there are three parameters or say task which are done by eash of those system. These
+task are: creating an intermediate representation of the input which captures only the key aspect of the text, scoring sentences based
+on that representation and then the final task of selecting a summary consisting of various sentences.
+
+First of all consider Intermediate Represntation:
+  Topic Representation: It converts the text to an intermediate representation interpreted as the topics discussed in the text.
+  Indicator Representation: It represent each sentence in the text as a list of indicators of importance such as sentence length, location in the document etc.
+  In Graph models the entire document is represented as a network of inter related sentences.
+
+Secondly we have the task of Scoring the sentences:
+  For topic representation approach, the score is related to how well a sentence expresses some of the most important topics in the document or to what extent it combines info about different topics.
+  For indicator represenation, the weight of each sentence is determined by combining the evidence from the different indicator (mostly by using ML techniques to find indicator weights)
+
+Finally we have the task of selecting summary sentences:
+  The most basic way is to select the best n, the top n sentences which have the desired summary length are selected.
+  Other way is select greedily (maximal marginal relevance approach). At each step the sentence importance score is recomputed as the Linear combination of b/w original importance weights and its similarity with already choosen sentences.
+  In global selection approach, the optimal collection of sentences is selected subject to constraints that try to maximize overall importance, minimize redundancy and maximize coherence.
+  
