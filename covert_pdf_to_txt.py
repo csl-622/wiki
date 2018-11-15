@@ -1,3 +1,4 @@
+# Use this to convert the 6 to 12th textbooks to text file 
 import os
 
 from os import chdir, getcwd, listdir, path
