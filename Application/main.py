@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/prinshu/SN/main.ui'
+# Form implementation generated from reading ui file '/home/prinshu/wiki/Application/main.ui'
 #
-# Created: Sun Nov  4 01:42:33 2018
+# Created: Tue Nov 13 21:27:37 2018
 #      by: pyside-uic 0.2.15 running on PySide 1.2.2
 #
 # WARNING! All changes made in this file will be lost!
@@ -54,3 +54,4 @@ class Ui_MainWindow(object):
         self.level.setItemText(3, QtGui.QApplication.translate("MainWindow", "class 7", None, QtGui.QApplication.UnicodeUTF8))
         self.level.setItemText(4, QtGui.QApplication.translate("MainWindow", "class 6", None, QtGui.QApplication.UnicodeUTF8))
         self.level.setItemText(5, QtGui.QApplication.translate("MainWindow", "class 5", None, QtGui.QApplication.UnicodeUTF8))
+
