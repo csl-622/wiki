@@ -25,7 +25,7 @@ def check_path(prompt):
 
 print "\n"
 
-
+#Update the path of the folder here
 folder = check_path("Provide absolute path for the folder: ")
 
 
