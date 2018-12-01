@@ -1,0 +1,175 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.10" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace case="first-letter" key="-2">Media</namespace>
+      <namespace case="first-letter" key="-1">Special</namespace>
+      <namespace case="first-letter" key="0" />
+      <namespace case="first-letter" key="1">Talk</namespace>
+      <namespace case="first-letter" key="2">User</namespace>
+      <namespace case="first-letter" key="3">User talk</namespace>
+      <namespace case="first-letter" key="4">Wikipedia</namespace>
+      <namespace case="first-letter" key="5">Wikipedia talk</namespace>
+      <namespace case="first-letter" key="6">File</namespace>
+      <namespace case="first-letter" key="7">File talk</namespace>
+      <namespace case="first-letter" key="8">MediaWiki</namespace>
+      <namespace case="first-letter" key="9">MediaWiki talk</namespace>
+      <namespace case="first-letter" key="10">Template</namespace>
+      <namespace case="first-letter" key="11">Template talk</namespace>
+      <namespace case="first-letter" key="12">Help</namespace>
+      <namespace case="first-letter" key="13">Help talk</namespace>
+      <namespace case="first-letter" key="14">Category</namespace>
+      <namespace case="first-letter" key="15">Category talk</namespace>
+      <namespace case="first-letter" key="100">Portal</namespace>
+      <namespace case="first-letter" key="101">Portal talk</namespace>
+      <namespace case="first-letter" key="108">Book</namespace>
+      <namespace case="first-letter" key="109">Book talk</namespace>
+      <namespace case="first-letter" key="118">Draft</namespace>
+      <namespace case="first-letter" key="119">Draft talk</namespace>
+      <namespace case="first-letter" key="710">TimedText</namespace>
+      <namespace case="first-letter" key="711">TimedText talk</namespace>
+      <namespace case="first-letter" key="828">Module</namespace>
+      <namespace case="first-letter" key="829">Module talk</namespace>
+      <namespace case="first-letter" key="2300">Gadget</namespace>
+      <namespace case="first-letter" key="2301">Gadget talk</namespace>
+      <namespace case="case-sensitive" key="2302">Gadget definition</namespace>
+      <namespace case="case-sensitive" key="2303">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Point</title>
+    <ns>0</ns>
+    <id>48221</id>
+    <revision>
+      <id>868198694</id>
+      <parentid>861079101</parentid>
+      <timestamp>2018-11-10T17:21:36Z</timestamp>
+      <contributor>
+        <username>Froid</username>
+        <id>1971344</id>
+      </contributor>
+      <minor />
+      <comment>Spelling/grammar correction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5941" xml:space="preserve">{{Technical reasons|Point #1|the Chevelle album|Point No. 1}}
+{{wiktionary|point|points}}
+'''Point''' or '''points''' may refer to:
+
+{{tocright}}
+==Places==
+===Geology===
+* Point, a [[promontory]] usually shorter than a cape
+
+===Geography===
+* [[Point, Outer Hebrides]]
+* [[Point, Texas]]
+* Point, the NE tip and a ferry terminal of [[Lismore, Scotland|Lismore]], Inner Hebrides, Scotland
+*[[Point Lookout (disambiguation)]]
+* [[Points, West Virginia]], an unincorporated community in the United States
+
+==Business and finance==
+* [[Point (mortgage)]], a percentage sometimes referred to as a form of pre-paid interest used to reduce interest rates in a mortgage loan
+* [[Basis point]], 1/100 of one percent, denoted ''bp'', ''bps'', and ''&#8241;''
+* [[Percentage point]]s, used to measure a change in percentage absolutely
+* [[Pivot point (technical analysis)]], a price level of significance in analysis of a financial market that is used as a predictive indicator of market movement
+* Reward points (see [[loyalty program]]), marketing strategy
+* [[Royalty points]], a way of sharing profit between companies and unit holders
+* [[Vigorish]] point, the commission charged on a gambling bet or loanshark's loan
+
+==Engineering==
+* Points, a [[contact breaker]] in an ignition system
+* Points, a [[railroad switch]] (British English)
+* [[Points of sail]], a sailing boat's course in relation to wind direction
+* [[Projectile point]], a hafted archaeological artifact used as a knife or projectile tip
+
+==Arts, entertainment, and media==
+
+===Games and sports===
+* Point, any of various abstract quantities used in games to determine a score; see [[Score (game)|Score]]
+* Point, a [[fielding (cricket)|fielding position in cricket]]
+* Point, a unit of the [[score (sport)|score]] in some sports:
+** [[Point (American football)]], a unit of scoring earned through a field goal or touchdown
+** [[Point (basketball)]], units obtained by scoring baskets during a game
+** [[Point (ice hockey)]], in ice hockey or lacrosse, a goal or assist a player earns during a game
+*** [[Points decision]], in boxing and some other fighting sports
+*** [[The point (ice hockey)]], the location of an ice hockey player
+** [[Point (tennis)]], the smallest unit of scoring in tennis
+* [[High card points]], used for hand evaluation in contract bridge (distinct from points used in bridge scoring)
+* [[Point guard]], in basketball
+* [[Points (association football)]]
+
+===Music===
+* [[Point Music]], a record label
+* [[Point (album)|''Point'' (album)]], a 2001 album by Cornelius
+* [[Points (Matthew Shipp album)|''Points'' (Matthew Shipp album)]], by jazz pianist Matthew Shipp
+* [[Point No. 1|''Point #1'']], a 1999 album of Chevelle
+* [[The Points]]
+
+===Other arts, entertainment, and media===
+* Point, a publishing imprint of [[Scholastic Corporation]]
+* ''[[Le Point]]'', a French weekly 
+* [[Pointe technique]], a ballet technique for dancing on the tips of toes
+
+==Mathematics==
+{{See also|List of mathematical properties of points}}
+* [[Point (geometry)]], an entity that has a location in space or on a plane, but has no extent; more generally, an element of some abstract [[topological space]]
+* Point, or [[Element (category theory)]], generalizes the set-theoretic concept of an element of a set to an object of any category
+* [[Critical point (mathematics)]], a stationary point of a function of an arbitrary number of variables
+*[[Decimal point]]
+* [[Point-free geometry]]
+* [[Stationary point]], a point in the domain of a single-valued function where the value of the function ceases to change
+
+==Measurement units==
+* [[Point (gemstone)]], 2 milligrams, or one hundredth of a carat
+* [[Point (typography)]], a measurement used in printing, the meaning of which has changed over time
+** Point, in typography, a [[Dot (disambiguation)#Typography|dot]] character:
+*** [[Full stop]], [[Interpunct]], [[Decimal point]] or [[Radix point]]
+** Vowel points, used to disambiguated a consonantal writing system: 
+*** Tashk&#299;l and &#7717;arak&#257;t for Arabic, Persian, Urdu, etc., or [[Niqqud]] for Hebrew
+* Point, in hunting, the number of [[antler]] tips on the hunted animal (e.g. 9 point buck)
+* Point, for describing paper-stock thickness, a synonym of ''mil'' and ''[[Thou (length)|thou]]'' (one thousandth of an inch)
+* Point, a hundredth of an [[inch]] or 0.254&amp;nbsp;mm, a unit of measurement formerly used for rainfall in Australia
+* [[Compass point]], one of the 32 directions on a traditional compass, equal to one eighth of a right angle (11.25 degrees)
+* [[Paris point]], 2/3&amp;nbsp;cm, used for shoe sizes
+
+==Parliamentary procedure==
+* [[Point of order]], a matter raised during a debate concerning the rules of debating themselves
+* [[Point of privilege]], a matter related to the rights and privileges of a parliamentary body or of one or more of its members
+
+==Science==
+* [[Point (coat color)]], animal fur coloration of the extremities
+* Point, a data element in a [[SCADA]] system representing a single input or output
+* [[Point mutation]], a change in a single nucleotide and therefore in a specific codon
+
+==People==
+* [[Mittie Frances Clarke Point]] (1850-1837; pen name, "Mrs. Alex. McVeigh Miller"), American novelist
+
+==Other uses==
+* Point, in specialized character sets: 
+** Dot in [[Morse code]]
+** Dots in [[Braille]]
+* [[Point Class cutter]], a small vessel formerly used as a patrol craft by the United States Coast Guard
+* [[Point man]], the lead soldier or vehicle in a patrol
+* [[Point system (driving)]], a system of demerits for driving offenses
+* [[Public Oregon Intercity Transit]], styled as POINT, a public transit system
+
+==See also==
+* [[Endpoint (disambiguation)]]
+* [[Lapointe (disambiguation)]], also Lepoint/La Pointe/Le Point
+* [[Midpoint (disambiguation)]]
+* [[Pointing (disambiguation)]]
+* [[Prize]]
+* [[Start Point (disambiguation)]]
+* [[The Point (disambiguation)]]
+* {{look from}}
+* {{in title}}
+
+{{disambiguation|geo}}</text>
+      <sha1>jgwtdgttmm0u6cdzemnvri5hnvsk28k</sha1>
+    </revision></page>
+</mediawiki>

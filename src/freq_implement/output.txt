@@ -1,0 +1,50 @@
+A machine (or mechanical device) is a mechanical structure that uses power to apply forces and control movement to perform an intended action.
+Simple machines are elementary examples of kinematic chains or linkages that are used to model mechanical systems ranging from the steam engine to robot manipulators.
+A wedge is a simple machine that transforms lateral force and movement of the tool into a transverse splitting force and movement of the workpiece.
+Today mechanics refers to the mathematical analysis of the forces and movement of a mechanical system, and consists of the study of the kinematics and dynamics of these systems.
+The mechanism of a mechanical system is assembled from components called machine elements.
+McCarthy and Soh describe a machine as a system that "generally consists of a power source and a mechanism for the controlled use of this power."
+The idea that a machine can be decomposed into simple movable elements led Archimedes to define the lever, pulley and screw as simple machines.
+Fluid Power: Hydraulic and pneumatic systems use electrically driven pumps to drive water or air respectively into cylinders to power linear movement.
+The idea of a simple machine originated with the Greek philosopher Archimedes around the 3rd century BC, who studied the Archimedean simple machines: lever, pulley, and screw.
+They can also include computers and sensors that monitor performance and plan movement, often called mechanical systems.
+A mechanical system manages power to accomplish a task that involves forces and movement.
+Modern machines are complex systems that consist of structural elements, mechanisms and control components and include interfaces for convenient use.
+The elementary mechanical components of a machine are termed machine elements.
+A spherical mechanism is a mechanical system in which the bodies move in a way that the trajectories of points in the system lie on concentric spheres.
+Power flow through a machine provides a way to understand the performance of devices ranging from levers and gear trains to automobiles and robotic systems.
+The classification of simple machines to provide a strategy for the design of new machines was developed by Franz Reuleaux, who collected and studied over 800 elementary machines.
+Later Greek philosophers defined the classic five simple machines (excluding the inclined plane) and were able to roughly calculate their mechanical advantage.
+A spatial mechanism is a mechanical system that has at least one body that moves in a way that its point trajectories are general space curves.
+The assumption that the system is an assembly of rigid components allows rotational and translational movement to be modeled mathematically as Euclidean, or rigid, transformations.
+The modern approach to characterizing machines focusses on the components that allow movement, known as joints.
+In 1586 Flemish engineer Simon Stevin derived the mechanical advantage of the inclined plane, and it was included with the other simple machines.
+Electric servomotors are the actuators for mechanical systems ranging from robotic systems to modern aircraft.
+This realization shows that it is the joints, or the connections that provide movement, that are the primary elements of a machine.
+The dynamic analysis of a machine requires the determination of the movement, or kinematics, of its component parts, known as kinematic analysis.
+The formulation and solution of rigid body dynamics is an important tool in the computer simulation of mechanical systems.
+His Difference engine can be considered an advanced mechanical calculator and his Analytical Engine a forerunner of the modern computer, though none were built in Babbage's lifetime.
+The dynamics of a rigid body system is defined by its equations of motion, which are derived using either Newtons laws of motion or Lagrangian mechanics.
+This can be seen in Watt's steam engine (see the illustration) in which the power is provided by steam expanding to drive the piston.
+10–75 AD) in his work Mechanics lists five mechanisms that can "set a load in motion"; lever, windlass, pulley, wedge, and screw, and describes their fabrication and uses.
+An automobile engine is called an internal combustion engine because it burns fuel (an exothermic chemical reaction) inside a cylinder and uses the expanding gases to drive a piston.
+A steam engine uses heat to boil water contained in a pressure vessel; the expanding steam drives a piston or a turbine.
+Power plant: The heat from coal and natural gas combustion in a boiler generates steam that drives a steam turbine to rotate an electric generator.
+The rigid-body dynamics studies the movement of systems of interconnected bodies under the action of external forces.
+Models used to study modern computers are termed State machine and Turing machine.
+The shape, texture and color of covers provide a styling and operational interface between the mechanical system and its users.
+Machine design refers to the procedures and techniques used to address the three phases of a machine's lifecycle:
+A number of machine elements provide important structural functions such as the frame, bearings, splines, spring and seals.
+A nuclear power plant uses heat from a nuclear reactor to generate steam and electric power.
+These elements provide structure for the system and control its movement.
+The rotational axes of hinged joints that connect the bodies in the system form lines in space that do not intersect and have distinct common normals.
+Wedge (hand axe): Perhaps the first example of a device designed to manage power is the hand axe, also see biface and Olorgesailie.
+The driving link is called the cam (also see cam shaft) and the link that is driven through the direct contact of their surfaces is called the follower.
+This electricity in turn is used to drive motors forming the actuators of mechanical systems.
+The rotational axes of hinged joints that connect the bodies in the system are perpendicular to this ground plane.
+Lever: The lever is another important and simple device for managing power.
+Generally, the links are the structural elements and the joints allow movement.
+This amplification, or mechanical advantage is the ratio of the input speed to output speed.
+The assemblies that control movement are also called "mechanisms."
+The Boulton and Watt steam engine and later designs powered steam locomotives, steam ships, and factories.
+The solution of these equations of motion defines how the configuration of the system of rigid bodies changes as a function of time.
