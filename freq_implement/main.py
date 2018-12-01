@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/prinshu/wiki/Application/main.ui'
+# Form implementation generated from reading ui file '/home/prinshu/SN/version_1/freq_implement/main.ui'
 #
-# Created: Thu Nov 15 14:02:05 2018
+# Created: Wed Nov 28 22:02:15 2018
 #      by: pyside-uic 0.2.15 running on PySide 1.2.2
 #
 # WARNING! All changes made in this file will be lost!
